@@ -7,6 +7,7 @@ Software Engineer
 I'm currently a student but have ambition to improve and grow as a software engineer.
 
 * 🌍  I'm based in Houston
+* 🖥️  See my portfolio at [My Website](http://github.com/ChukOf)
 * 🧠  I'm learning Java, Python, and a bit of Game Dev
 * 🤝  I'm open to collaborating on other software related or game dev projects!
 * ⚡  Some of my other interests besides coding are art, performing puppetry, reading, and of course, video games 🎮!
@@ -33,6 +34,4 @@ I'm currently a student but have ambition to improve and grow as a software engi
 
 <a href="http://www.github.com/ChukOf"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ChukOf&bg_color=22272e&color=ffffff&line=facc15&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/ChukOf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChukOf&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
